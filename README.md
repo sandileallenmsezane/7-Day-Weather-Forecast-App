@@ -43,5 +43,6 @@ The app loads a CSV file of European city coordinates, populates a dropdown menu
     Loading Indicator: Displays a loading GIF while data is being fetched.
 
 
-###Coursera Guided Project - Completed July 2025
 
+### Coursera Guided Project - Completed July 2025
+### link: https://sandileallenmsezane.github.io/7-Day-Weather-Forecast-App/

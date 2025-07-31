@@ -2,7 +2,8 @@
 ## 📘 Project Scenario
 
 Build a web application that allows users to view a 5-day weather forecast for various European cities. The user selects a city from a dropdown list, and weather cards are dynamically displayed using data fetched from the 7Timer! API.
-🧠 Skills Demonstrated
+
+## 🧠 Skills Demonstrated
 
     JavaScript DOM manipulation
 

@@ -28,9 +28,11 @@ Build a web application that allows users to view a 5-day weather forecast for v
 ## 📝 Summary
 
 This project aims to provide a simple and interactive weather forecast interface that users can access directly in their browser. It uses real-time data and visually presents weather conditions through custom icons, text overlays, and styled forecast cards.
-✅ Solution
+
+## ✅ Solution
 
 The app loads a CSV file of European city coordinates, populates a dropdown menu, and fetches weather data from the 7Timer! API upon city selection. Forecast cards are dynamically generated, displaying weather icons, temperature, and wind information for each 3-hour interval. Bootstrap and CSS are used for layout, responsiveness, and visual styling, including a blurred transparent card effect and rounded elements.
+
 ## 🔍 Approach
 
     CSV Parsing: Extracted latitude, longitude, city, and country from a local CSV file.
